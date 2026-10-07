@@ -1,4 +1,4 @@
-Name: Asma banu G 
-usn : 1GC25AI009
-Class: 2nd yr AIML 
+Name: Hifza
+usn: 1GC25AI010
+Class: 2nd yr AIML
 section: D
